@@ -23,10 +23,13 @@
 ![image](https://github.com/user-attachments/assets/03caea6c-95a6-49c7-b884-0f9f364db6cf)
 
 Окно для входа по логину и паролю:
+
 ![image](https://github.com/user-attachments/assets/efe10f66-435f-4ed3-95d1-cd71569d29c9)
 
 Окно для регистрации:
+
 ![image](https://github.com/user-attachments/assets/4b8ffc0c-eab9-4d45-9835-fad965665d69)
 
 Пример результаты игры:
+
 ![image](https://github.com/user-attachments/assets/52a4cac8-66f6-44d9-a918-643e7eff49a6)
